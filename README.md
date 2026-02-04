@@ -5,4 +5,5 @@
 <p>The Scanner comes with a sheet of barcodes that can change the baud rate, the reading mode and the scan suffix data and other functions of the scanner. </p>
 
 <p>The barcode scanner requires a USB shield so that the arduino can communicate with it.</p>
+<link>https://github.com/kingston-hackSpace/USB-host-Shield</link>
 
